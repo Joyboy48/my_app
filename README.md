@@ -1,6 +1,6 @@
 # my_app
 
-A new Flutter project.
+Intro to flutter and Basis of Dart.
 
 ## Getting Started
 
